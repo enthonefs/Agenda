@@ -1,10 +1,10 @@
-# 📅 Agenda API
+# 📅 lista-usuarios API
 
 API REST para gerenciamento de usuários, incluindo dados como endereço e telefone, com autenticação via JWT.
 
 ## 🚀 Sobre o projeto
 
-A **Agenda API** é uma aplicação backend desenvolvida com Spring Boot que permite o cadastro e gerenciamento de usuários, incluindo múltiplas informações relacionadas, como endereço e telefone.
+A **lista-usuarios** é uma aplicação backend desenvolvida com Spring Boot que permite o cadastro e gerenciamento de usuários, incluindo múltiplas informações relacionadas, como endereço e telefone.
 
 O sistema também conta com **autenticação e segurança utilizando JWT**, garantindo proteção dos endpoints.
 
